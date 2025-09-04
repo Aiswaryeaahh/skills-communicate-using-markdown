@@ -23,3 +23,6 @@ void main()
   }
 }
 ```
+- [x] Opened pull request tab and edited readme file 
+- [x] Created task list
+- [ ] Committed changes
